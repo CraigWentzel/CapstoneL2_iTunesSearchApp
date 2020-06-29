@@ -164,5 +164,7 @@ Starting up our Backend and Front End Environment:
 
 https://user-images.githubusercontent.com/60571124/82684128-655bfc80-9c52-11ea-92f5-bee201aec231.png
 
+App is deployed to Heroku at the link below:
+https://craigitunes.herokuapp.com/
 
 
